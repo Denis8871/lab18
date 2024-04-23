@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab 18 OOP Dykyi", "Lab 18 OOP Dykyi.csproj", "{CBCD8D24-E74E-4BFF-9BEA-41B8617255DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBCD8D24-E74E-4BFF-9BEA-41B8617255DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBCD8D24-E74E-4BFF-9BEA-41B8617255DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBCD8D24-E74E-4BFF-9BEA-41B8617255DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBCD8D24-E74E-4BFF-9BEA-41B8617255DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7C2BBD94-E2A3-47B4-AFCD-7E5717876874}
+	EndGlobalSection
+EndGlobal

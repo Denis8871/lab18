@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34525.116
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab 18 OOP Dykyi", "Lab 18 OOP Dykyi.csproj", "{CBCD8D24-E74E-4BFF-9BEA-41B8617255DB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab 18 OOP Shostya", "Lab 18 OOP Shostya.csproj", "{CBCD8D24-E74E-4BFF-9BEA-41B8617255DB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

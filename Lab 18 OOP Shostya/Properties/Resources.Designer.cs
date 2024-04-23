@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Lab_18_OOP_Dykyi.Properties
+namespace Lab_18_OOP_Shostya.Properties
 {
 
 
@@ -44,7 +44,7 @@ namespace Lab_18_OOP_Dykyi.Properties
             {
                 if ((resourceMan == null))
                 {
-                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("Lab_18_OOP_Dykyi.Properties.Resources", typeof(Resources).Assembly);
+                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("Lab_18_OOP_Shostya.Properties.Resources", typeof(Resources).Assembly);
                     resourceMan = temp;
                 }
                 return resourceMan;

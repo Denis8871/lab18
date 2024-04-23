@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Lab_18_OOP_Dykyi
+namespace Lab_18_OOP_Shostya
 {
     public partial class Form1 : Form
     {
